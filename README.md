@@ -14,6 +14,7 @@
     - [Main Menu](#main-menu)
     - [Submenus](#sub-menus)
   - [Rendering the Board and X/O Symbols](#rendering-the-board-and-xo-symbols)
+- [How to Run](#how-to-run)
 
 ## Introduction
 
@@ -82,4 +83,38 @@ The OpenGL library was utilized to render the game board using simple geometric 
 
 ![GameBoard](https://github.com/GabrielFrazz/TicTacToe-OpenGL/assets/118780538/33b4a434-42f6-4536-9f5b-718e3b7639b6)
 
+## How to Run
 
+Follow these steps to compile and run the Tic-Tac-Toe game on your local machine:
+
+### Prerequisites
+
+Before you begin, ensure that you have the following prerequisites installed on your system:
+
+- [OpenGL](https://www.opengl.org/) - Graphics library used for rendering.
+- C compiler.
+
+### Clone the Repository
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/GabrielFrazz/TicTacToe-OpenGL.git
+
+### Compile the Game
+
+1. Navigate to the repository directory:
+    ```bash
+    cd TicTacToe-OpenGL
+
+2. Compile the game using your preferred C compiler (e.g., GCC):
+    ```bash
+    gcc -o tic_tac_toe main.c board.c computer.c game.c ui.c util.c -lGL -lGLU -lglut -lm
+
+### Run the Game
+
+1. run the compiled exectable:
+    ```bash
+    ./tic_tac_toe
+
+    
