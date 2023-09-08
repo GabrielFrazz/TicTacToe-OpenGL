@@ -83,4 +83,3 @@ The OpenGL library was utilized to render the game board using simple geometric 
 ![GameBoard](https://github.com/GabrielFrazz/TicTacToe-OpenGL/assets/118780538/33b4a434-42f6-4536-9f5b-718e3b7639b6)
 
 
-![OpenGL Logo](opengl_logo_image_link_here)
