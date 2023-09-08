@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Software Architecture](#software-architecture)
 - [System Modules](#system-modules)
-- [Abstract Data Type (ADT) - Tree and Minimax Algorithm](#adt-tree-and-minimax-algorithm)
+- [Abstract Data Type (ADT) - Tree and Minimax Algorithm](#abstract-data-type-adt---tree-and-minimax-algorithm)
 - [Graphical User Interface Design](#graphical-user-interface-design)
   - [Design Principles](#design-principles)
   - [Menus and Options](#menus-and-options)
